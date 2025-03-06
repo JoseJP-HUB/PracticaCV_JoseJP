@@ -8,6 +8,20 @@ namespace PracticaCV_JoseJP
 {
     internal class Clase_JoseJP
     {
+        //Constantes
+
+        //Miembros privados
+
+        //Constructores
+
+        //Metodos
+
+        //Propiedades
+
+        //Eventos
+
+        //Destructor
+
 
     }
 }
