@@ -4,7 +4,15 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //Variables
+
+            //Incicializamos la clase
+
+            //Entradas
+
+            //Procesos
+
+            //Salidas
         }
     }
 }
