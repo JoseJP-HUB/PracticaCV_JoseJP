@@ -12,7 +12,7 @@
 
             //Procesos
 
-            //Salidas
+            //Salida
         }
     }
 }
